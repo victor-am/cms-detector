@@ -71,7 +71,7 @@ class cms_detect{
         //try hit OpenCart
         //try hit OSCommerce
         //try hit ZenCart
-        //try hit TyniCMS
+        //try hit TinyCMS
 
         arsort($this->hit);
         $this->cms=key($this->hit);
