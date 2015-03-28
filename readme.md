@@ -7,9 +7,11 @@ This PHP class/script will try to detect CMS or Web application based on given r
 
 TODO
 ====
+* documentation
 * error handling
 * more rules
 * add cms to "TODO Rules"
+
 
 Working Rules
 =============

@@ -1,5 +1,10 @@
 <?php
-//CMS detection test/demo, PHP-CLI version
+//CMS detection framework, v0.1
+//https://github.com/ggtd/cms-detector
+//=============================================
+//author: Tomas Dobrotka
+//web: www.dobrotka.sk
+//contact: tomas@dobrotka.sk
 
 include("cms_detect.php");
 

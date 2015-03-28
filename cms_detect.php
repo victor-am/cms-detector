@@ -1,10 +1,10 @@
 <?php
 //CMS detection framework, v0.1
-//
+//https://github.com/ggtd/cms-detector
+//=============================================
 //author: Tomas Dobrotka
 //web: www.dobrotka.sk
 //contact: tomas@dobrotka.sk
-//===========================================
 
 
 class cms_detect{
@@ -14,12 +14,7 @@ class cms_detect{
         $this->url="";
         $this->hitindex=0;
 
-        $this->response_data = array(
-            'root' => "",
-            'slash_admin' => "",
-            'slash_administration' => "",
-            'slash_wp-admin' => "",
-            'res' => 0);
+        $this->response_data = array();
 
     }
 
