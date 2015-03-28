@@ -29,5 +29,4 @@ TODO rules
 * OpenCart
 * OSCommerce
 * ZenCart
-* TyniCMS
-* PHP/IIS
+* TinyCMS
