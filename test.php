@@ -9,10 +9,7 @@
 include("cms_detect.php");
 
 $cms=new cms_detect();
-
-
-//$cms->go('http://www.svetdomen.sk/');
-$cms->go('http://www.svetdomen.sk/forum/');
+$cms->go('http://www.somehost.tld/');
 
 
 echo "\n----------------------------------------------\n";
